@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "Hello World !, Today is: " `date`
-echo "Hello World !, Today is: $(date)}"
+echo "Hello CloudEngineers!!! !, Today is: $(date)}"
 
 #command [OPTIONS] arguments
 ./input_output.sh
